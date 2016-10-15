@@ -1,5 +1,6 @@
 # YamechineLearning
-Machine-Learning study with Yame
+
+야매로 배우는 머신러닝
 
 
 # Content
