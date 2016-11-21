@@ -2,9 +2,7 @@
 
 야매로 배우는 머신러닝
 
-주의1 :  야매로 배우는 것이기 때문에 기초가 매우 부실해 질 수 있습니다.
-
-주의2 : 때때로 틀린게 있습니다.
+[강의 코드는 이곳에](https://github.com/socc-io/YamechineLearning/tree/master/Lecture)
 
 # 필요한 패키지들
 
