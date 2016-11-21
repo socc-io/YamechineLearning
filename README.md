@@ -1,4 +1,4 @@
-# 야매로 배우는 머신러닝 (주피터 노트북 활용)
+# 야매로 배우는 머신러닝
 
 ![soeasy](https://github.com/socc-io/YamechineLearning/raw/master/SoEasy.png)
 
@@ -28,12 +28,13 @@
 
 # 필요한 패키지들
 
+   * .ipynb를 실행하려면 jupyter 를 설치
    * pytrain (ML-library)
    * pandas
    * numpy
    
-필요 패키지 설치방법
-   
+        <필요 패키지 설치방법>
+        
         참고) 아래 명령어로 Pytrain 설치를 합니다.
         $ sudo pip install --upgrade pytrain
     
