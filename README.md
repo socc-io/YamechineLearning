@@ -1,4 +1,4 @@
-## 야매로 배우는 머신러닝 (주피터 노트북 활용)
+# 야매로 배우는 머신러닝 (주피터 노트북 활용)
 
 [1. 강의 코드는 이곳에 (using pytrain)](https://github.com/socc-io/YamechineLearning/tree/master/Lecture)
 
