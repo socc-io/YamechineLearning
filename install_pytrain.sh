@@ -1,1 +1,1 @@
-git clone https://github.com/becxer/pytrain Jupyter/pytrain
+sudo pip install --upgrade pytrain
