@@ -26,9 +26,11 @@
 
 # 필요한 패키지들
 
+   * pytrain (ML-library)
    * pandas
    * numpy
-   * pytrain (ML-library)
+   
+필요 패키지 설치방법
    
         참고) 아래 명령어로 Pytrain 설치를 합니다.
         $ sudo pip install --upgrade pytrain
