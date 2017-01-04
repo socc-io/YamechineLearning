@@ -18,11 +18,12 @@
    * NeuralNetwork (FNN)
    * KNN (K-Nearest Neiborhood)
    * Kmeans
-   * DBSCAN
    * NaiveBayesian
    * GaussainNaiveBayesian
-   * HMM (Hidden Marcov Model)
+   * DecisionTree
+   * DBSCAN
    * SVM (Support Vector Machine)
+   * HMM (Hidden Marcov Model)
    * CRF (Conditional Random Field)
 
 
