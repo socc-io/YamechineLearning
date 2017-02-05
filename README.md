@@ -13,8 +13,8 @@
    * Pandas pyplot 을 활용한 편의점 데이터 분석 
    * Pandas correlation, covariance, Numpy svd 을 이용한 IRIS 데이터 분석
    * Pytrain 설치 및 아래알고리즘 학습
-   * SVD 로 문서 요약하기 
-   * LinearRegression
+   * SVD 로 문서 요약하기
+   * LinearRegression
    * LogisticRegression
    * NeuralNetwork (FNN)
    * KNN (K-Nearest Neiborhood)
