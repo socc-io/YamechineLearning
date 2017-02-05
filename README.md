@@ -8,25 +8,34 @@
 
 
 # 배우는 콘텐츠
-
+### Bronze
+-------------------
    * Pandas 튜토리알
    * Pandas pyplot 을 활용한 편의점 데이터 분석 
    * Pandas correlation, covariance, Numpy svd 을 이용한 IRIS 데이터 분석
    * Pytrain 설치 및 아래알고리즘 학습
    * SVD 로 문서 요약하기
-   * LinearRegression
-   * LogisticRegression
-   * NeuralNetwork (FNN)
+   * Linear Regression
+   * Logistic Regression
+   * Neural Network (FNN)
    * KNN (K-Nearest Neiborhood)
    * Kmeans
-   * NaiveBayesian
-   * GaussainNaiveBayesian
-   * DecisionTree
+   * Naive Bayesian
+   * Gaussain Naive Bayesian
+   
+### Silver
+-------------------
+   * Decision Tree
    * DBSCAN
    * SVM (Support Vector Machine)
+   * NB (Naive Bayesian)
    * HMM (Hidden Marcov Model)
+   * ME (Maxium Entropy)
    * CRF (Conditional Random Field)
 
+### Gold
+-------------------
+   * Deep-Learning with TensorFlow (https://github.com/becxer/tensorflow-1month)
 
 # 필요한 패키지들
 
