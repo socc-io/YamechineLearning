@@ -22,7 +22,6 @@
    * Naive Bayesian
    * Gaussain Naive Bayesian
 
--------------------
 ### Silver
    * Decision Tree
    * DBSCAN
@@ -32,12 +31,10 @@
    * ME (Maxium Entropy)
    * CRF (Conditional Random Field)
 
--------------------
 ### Gold
    * Deep-Learning with TensorFlow (https://github.com/becxer/tensorflow-1month)
 
 
--------------------
 # 필요한 패키지들
 
    * .ipynb를 실행하려면 jupyter 를 설치
