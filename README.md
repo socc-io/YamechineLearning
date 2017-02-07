@@ -9,7 +9,6 @@
 
 # 배우는 콘텐츠
 ### Bronze
--------------------
    * Pandas 튜토리알
    * Pandas pyplot 을 활용한 편의점 데이터 분석 
    * Pandas correlation, covariance, Numpy svd 을 이용한 IRIS 데이터 분석
@@ -22,9 +21,9 @@
    * Kmeans
    * Naive Bayesian
    * Gaussain Naive Bayesian
-   
-### Silver
+
 -------------------
+### Silver
    * Decision Tree
    * DBSCAN
    * SVM (Support Vector Machine)
@@ -33,10 +32,12 @@
    * ME (Maxium Entropy)
    * CRF (Conditional Random Field)
 
-### Gold
 -------------------
+### Gold
    * Deep-Learning with TensorFlow (https://github.com/becxer/tensorflow-1month)
 
+
+-------------------
 # 필요한 패키지들
 
    * .ipynb를 실행하려면 jupyter 를 설치
